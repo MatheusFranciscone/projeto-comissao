@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/MatheusFranciscone/site-ecoleta/blob/master/images/logo.png">
+<img src="https://github.com/MatheusFranciscone/projeto-comissao/blob/master/comissao.png">
 </p>
 
 # Projeto Comissão
