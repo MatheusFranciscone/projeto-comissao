@@ -1,0 +1,10 @@
+C:\Users\franc\Desktop\projeto-comissao\bin\Debug\projeto-comissao.exe.config
+C:\Users\franc\Desktop\projeto-comissao\bin\Debug\projeto-comissao.exe
+C:\Users\franc\Desktop\projeto-comissao\bin\Debug\projeto-comissao.pdb
+C:\Users\franc\Desktop\projeto-comissao\obj\Debug\projeto-comissao.csprojAssemblyReference.cache
+C:\Users\franc\Desktop\projeto-comissao\obj\Debug\projeto_comissao.frm_Comissao.resources
+C:\Users\franc\Desktop\projeto-comissao\obj\Debug\projeto_comissao.Properties.Resources.resources
+C:\Users\franc\Desktop\projeto-comissao\obj\Debug\projeto-comissao.csproj.GenerateResource.cache
+C:\Users\franc\Desktop\projeto-comissao\obj\Debug\projeto-comissao.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\projeto-comissao\obj\Debug\projeto-comissao.exe
+C:\Users\franc\Desktop\projeto-comissao\obj\Debug\projeto-comissao.pdb
